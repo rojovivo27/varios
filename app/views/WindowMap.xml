@@ -1,0 +1,9 @@
+<Alloy>
+	<Tab title="Map">
+		<Window title="Map" class = "container">
+			<View ns="Alloy.Globals.Map" id="mapView"></View>
+			<Button id="btnAnnotation">Anotacion</Button>
+			<Button id="btnPosition">Donde estoy?</Button>
+		</Window>
+	</Tab>
+</Alloy>

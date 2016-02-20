@@ -1,0 +1,9 @@
+<Alloy>
+	<Tab title="Web">
+		<Window title="Web" class = "container">
+			<WebView url="/local.html" id="localWebView" class="webview"></WebView>
+			<WebView url="http://www.glassproject.com.mx" id="remoteWebView" class="webview"></WebView>
+			<Button id="btnMagic">Click me</Button>
+		</Window>
+	</Tab>
+</Alloy>

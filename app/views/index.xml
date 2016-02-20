@@ -1,0 +1,7 @@
+<Alloy>
+	<TabGroup >
+		<Require src="WindowMap"></Require>
+		<Require src="WindowWeb"></Require>
+		<Require src="WindowAnimation"></Require>
+	</TabGroup>
+</Alloy>

@@ -1,0 +1,10 @@
+<Alloy>
+	<Tab title="Animations" class="container">
+		<Window title="Animations">
+			<View id="view1"></View>
+			<View id="view2"></View>
+			<View id="view3"></View>
+			<Button id="btnAnimate">Animate</Button>
+		</Window>
+	</Tab>
+</Alloy>

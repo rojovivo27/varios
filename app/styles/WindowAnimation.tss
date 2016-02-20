@@ -1,0 +1,30 @@
+
+".container" : {
+	background: "white"
+}
+
+"#view1": {
+	width: "200dp",
+	height: "200dp",
+	top: "50dp",
+	left: "50dp",
+	backgroundColor: "red"
+}
+
+"#view2": {
+	width: "200dp",
+	height: "200dp",
+	top: "50dp",
+	left: "50dp",
+	backgroundColor: "green"
+}
+
+"#view3": {
+	width: "200dp",
+	height: "200dp",
+	backgroundColor: "blue"
+}
+
+"#btnAnimate": {
+	bottom: "10%"
+}

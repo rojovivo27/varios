@@ -1,0 +1,29 @@
+
+".container" : {
+	background: "white",
+	layout: "vertical"
+}
+
+"#mapView":{
+	width: "100%",
+	height: "80%",
+	mapType: Alloy.Globals.Map.NORMAL_TYPE,
+	animate: true,
+	regionFit: true,
+	userLocation: true,
+	region: {
+		latitude: 33.74511,
+		logitude: -84.38993,
+		latitudeDelta: 0.01,
+		longitudeDelta: 0.01
+	}
+}
+
+"#btnAnnotation": {
+	top: "10dp"
+}
+
+
+"#btnPosition": {
+	top: "10dp"
+}
